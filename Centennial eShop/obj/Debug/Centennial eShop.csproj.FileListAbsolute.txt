@@ -1,0 +1,364 @@
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Ecommerce.dll.config
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Ecommerce.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Ecommerce.pdb
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\csc.exe
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\csc.exe.config
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\csc.rsp
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\csi.exe
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\csi.rsp
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.AppContext.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\vbc.exe
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\vbc.exe.config
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\vbc.rsp
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Antlr3.Runtime.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\EntityFramework.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Newtonsoft.Json.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Owin.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PagedList.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PagedList.Mvc.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PayPal.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Helpers.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Mvc.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Optimization.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Razor.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\WebGrease.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\EntityFramework.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PagedList.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PagedList.Mvc.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\PayPal.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Helpers.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Mvc.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Optimization.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.Razor.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Newtonsoft.Json.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Antlr3.Runtime.pdb
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\obj\Debug\Centennial eShop.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\obj\Debug\Centennial eShop.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\obj\Debug\Centennial eShop.csproj.CopyComplete
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\obj\Debug\Ecommerce.dll
+C:\Users\Romi\Desktop\Ecommerce-master\Ecommerce\Centennial eShop\obj\Debug\Ecommerce.pdb
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.dll.config
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.pdb
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.exe
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.exe.config
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.rsp
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csi.exe
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csi.rsp
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.AppContext.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.exe
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.exe.config
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.rsp
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Antlr3.Runtime.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Newtonsoft.Json.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Owin.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PagedList.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PagedList.Mvc.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PayPal.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Helpers.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Mvc.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Optimization.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Razor.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\WebGrease.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PagedList.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PagedList.Mvc.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\PayPal.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Helpers.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Mvc.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Optimization.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Razor.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Newtonsoft.Json.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Antlr3.Runtime.pdb
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csprojAssemblyReference.cache
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csproj.CoreCompileInputs.cache
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csproj.CopyComplete
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\obj\Debug\Ecommerce.dll
+C:\Users\Baby\Downloads\EShop\Centennial-eShop\Centennial eShop\obj\Debug\Ecommerce.pdb
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.dll.config
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Ecommerce.pdb
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Owin.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PagedList.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PayPal.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PagedList.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\PayPal.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\obj\Debug\Centennial eShop.csproj.CopyComplete
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\obj\Debug\Ecommerce.dll
+C:\Users\Admin\Downloads\Ecentennial EShop\Centennial-eShop\Centennial eShop\obj\Debug\Ecommerce.pdb
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Ecommerce.dll.config
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Ecommerce.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Ecommerce.pdb
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\csc.exe
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\csc.exe.config
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\csc.rsp
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\csi.exe
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\csi.rsp
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.AppContext.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\vbc.exe
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\vbc.exe.config
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\vbc.rsp
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Antlr3.Runtime.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\EntityFramework.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\EntityFramework.SqlServer.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Newtonsoft.Json.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Owin.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PagedList.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PagedList.Mvc.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PayPal.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Helpers.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Mvc.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Optimization.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Razor.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\WebGrease.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\EntityFramework.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\EntityFramework.SqlServer.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PagedList.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PagedList.Mvc.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\PayPal.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Helpers.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Mvc.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Optimization.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.Razor.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Newtonsoft.Json.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Antlr3.Runtime.pdb
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\obj\Debug\Centennial eShop.csprojAssemblyReference.cache
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\obj\Debug\Centennial eShop.csproj.CoreCompileInputs.cache
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\obj\Debug\Centennial eShop.csproj.CopyComplete
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\obj\Debug\Ecommerce.dll
+C:\Users\reado\source\repos\Group Project3\Centennial eShop\obj\Debug\Ecommerce.pdb

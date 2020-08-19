@@ -1,0 +1,71 @@
+﻿@model  Ecommerce.Models.Shipping
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width">
+    <title>Shipping Details</title>
+</head>
+<body>
+    <div>
+        <div class="panel panel-success"></div>
+        <div class="panel panel-heading text-left font-italic"><h4>Shipping Address</h4></div>
+        <div class=" panel-body">
+            <form class="p-a-1" asp-action="Shipping" method="post">
+                <div asp-validation-summary="All"></div>
+
+                <div class="form-group">
+                    <label>Country:</label>
+                    <select class="form-control" asp-for="Country">
+                        <option value="">----Select----</option>
+                        <option value="CN">Canada</option>
+                        <option value="IN">India</option>
+                        <option value="US">US</option>
+                        <option value="JP">Japan</option>
+                        <option value="NW">NewZealand</option>
+                        <option value="GM">Germany</option>
+                        <option value="CH">China</option>
+                        <option value="PK">Pakistan</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FirstName">FirstName:</label>
+                    <input class="form-control" a asp-for="FirstName" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastName">LastName:</label>
+                    <input class="form-control" asp-for="LastName" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="StreetAddress">StreetAddress:</label>
+                    <input class="form-control" asp-for="StreetAddress" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Apartment">Apartment:</label>
+                    <input class="form-control" asp-for="Apartment">
+                </div>
+                <div class="form-group">
+                    <label asp-for="City">City:</label>
+                    <input class="form-control" asp-for="City" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="ZipCode">ZipCode:</label>
+                    <input class="form-control" asp-for="ZipCode" />
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit">Add shipping details</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+
+
+

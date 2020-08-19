@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-Ecommerce-20200310114106.mdf;Initial Catalog=aspnet-Ecommerce-20200310114106;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sethm\\Desktop\\EcommerceApp\\Ecommerce\\Ecommerce\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DbmyOnlineShoppingEntities-Web.config Connection String" description="DbmyOnlineShoppingEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/DAL.Model1.csdl|res://*/DAL.Model1.ssdl|res://*/DAL.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=(localdb)\MSSQLLocalDB;initial catalog=DbmyOnlineShopping;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sethm\\Desktop\\EcommerceApp\\Ecommerce\\Ecommerce\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DbmyOnlineShoppingEntities']/@connectionString" />
+  </parameter>
+</parameters>
